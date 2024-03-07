@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 中文:
 Mobile-Lowend-Port是一个专门针对低端移动设备优化的操作系统分支。它基于Android开源项目（AOSP），旨在为低端硬件设备提供更好的性能和用户体验。Mobile-Lowend-Port的主要目标是降低系统资源消耗，提高运行速度，同时保持与主流Android系统的兼容性。
 
@@ -34,4 +33,4 @@ The main features of Mobile-Lowend-Port are as follows:
 5. Community support: Has an active developer and user community that provides continuous technical support and updates for the project.
 
 Mobile-Lowend-Port is suitable for various low-end mobile devices, such as entry-level smartphones, feature phones, and tablets, etc. By using Mobile-Lowend-Port, users can get better performance and user experience on low-configuration devices.
--->
+
